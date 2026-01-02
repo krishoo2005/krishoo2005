@@ -1,18 +1,28 @@
-# Hi, I'm Krushna 👋
+Hi, I'm Krushna Raosaheb Aghade
+3rd-year Electrical Engineering student from CSMSS College of Engineering.
 
-Electrical Engineering student (3rd year) from CSMSS College of Engineering, learning **Python** and exploring AI, Embedded Systems & IoT.
+💻 Building & deploying real-world projects using **Python, Flask & AWS**
+☁️ Deployed production Flask app on AWS EC2 (Gunicorn, Ubuntu 24.04)
+🔌 Experience in Embedded Systems & IoT projects
 
-- 🔌 Built projects like Smart Home Automation, Automatic Light System and Automatic Mocktail Dispenser  
-- 🐍 Currently learning Python from scratch and building small scripts & projects  
-- 📊 Completed virtual job simulations in Technology & Data Labeling on Forage (Deloitte Australia)  
-- 🎯 Interested in internships/trainee roles in Python, Embedded/IoT and tech
+ Projects
+- AWS EC2 Flask Skills Tracker (Production Deploy)
+- Smart Home Automation (Arduino / ESP32)
+- Automatic Light System
+- Automatic Mocktail Dispenser
 
- 🔧 Tech stack & skills
-- Python, C (basics)  
-- Arduino / ESP32, Sensors & Automation  
-- Data Labeling & basic data handling  
-- Problem solving, Teamwork, Self learning  
+ Tech Stack
+- Python, Flask
+- AWS EC2, Linux, SSH
+- Arduino / ESP32, Sensors
+- Git & GitHub
 
- 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/krushna-aghade-136873284  
+  Looking For
+Internship / Trainee roles in:
+- Python / Backend
+- Cloud & DevOps (AWS)
+- Embedded / IoT
+
+📫 **Connect with me**
+- LinkedIn: https://www.linkedin.com/in/krushna-aghade-136873284
 - Email: krushnaaghade1@gmail.com
